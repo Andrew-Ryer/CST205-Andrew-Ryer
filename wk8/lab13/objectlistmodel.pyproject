@@ -1,0 +1,3 @@
+{
+    "files": ["main.py", "ObjectListModel/Main.qml", "ObjectListModel/qmldir"]
+}
